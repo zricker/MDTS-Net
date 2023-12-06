@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="cyclegan" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="cyclegan" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (tf2) (8)" project-jdk-type="Python SDK" />
 </project>
