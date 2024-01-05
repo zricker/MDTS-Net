@@ -7,7 +7,7 @@ Reference:
 *******************************************************************************
 ## Functions of each scripts
 
-- organize_folder_structure.py: Organize the data in the folder structure (training,testing) for the network, and align the coordinations of images and labels.
+- organize_folder_structure.py: Organize the data in the folder structure (training,testing) for the network, and align the coordinates of images and labels.
 
 - check_loader_patches: Shows example of patches fed to the network during the training.
 
